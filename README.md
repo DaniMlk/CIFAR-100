@@ -3,6 +3,7 @@ In this repository, I implemented in-class Kaggle competition which for Illinois
 
 ## Usage
 To use this code run cnn_final.py
+To use ResNet Arch. run main.py (It use ResNet which has skip connection that prevent from vanishing gradient and for that it make improvemnt through deep network)
 
 ## Requirments
 Python3
